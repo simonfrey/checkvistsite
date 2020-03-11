@@ -34,7 +34,7 @@ Submit a pull request, or send me an email via checkvistsite@simon-frey.eu
 ```
 The MIT License (MIT)
 
-Copyright (c) 2013-2018 Emanuil Rusev, erusev.com
+Copyright (c) 2020 Simon Frey
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
